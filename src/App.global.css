@@ -79,3 +79,7 @@ button:focus-visible {
     font-size: medium;
   }
 }
+
+.big {
+  width: 1000px;
+}

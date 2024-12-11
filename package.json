@@ -11,13 +11,26 @@
     "lint:fix": "npm run lint --fix"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
     "@metamask/detect-provider": "^2.0.0",
-    "antd": "^5.9.4",
+    "@mui/material": "^6.2.0",
+    "@mui/styled-engine": "^6.2.0",
+    "@mui/styled-engine-sc": "^6.2.0",
+    "@mui/x-charts": "^7.23.1",
+    "BarChart": "link:@mui/x-charts/BarChart",
+    "antd": "^5.22.4",
     "axios": "^1.5.1",
+    "chart.js": "^4.4.7",
     "dotenv": "^16.3.1",
     "ethers": "5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.14.1",
+    "styled-components": "^6.1.13",
+    "victory": "^37.3.4",
+    "zustand": "^5.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
